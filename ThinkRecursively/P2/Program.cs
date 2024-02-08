@@ -10,6 +10,7 @@
                 sum += 1;
             }
             Console.WriteLine($"The sum is: {sum}");
+            Console.WriteLine("This is awsome!");
         }
     }
 }
